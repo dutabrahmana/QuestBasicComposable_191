@@ -41,7 +41,7 @@ fun TataLetakBoxColumnRow(modifier: Modifier = Modifier) {
 }
 // =========================================================
 
-@Preview(showBackground = true)
+@Preview(showBackground = tre)
 @Composable
 fun PreviewTataLetak() {
     Praktikum1Theme {
